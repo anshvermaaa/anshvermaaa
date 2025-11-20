@@ -19,7 +19,7 @@
 
 ## 📊 My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshvermaaa&theme=tokyonight&show_icons=true&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://git-hub-streak-stats.vercel.app/?user=anshvermaaa&theme=tokyonight&hide_border=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshvermaaa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
 </p>
 <p align="center">
