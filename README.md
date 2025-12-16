@@ -1,7 +1,7 @@
 ## 👋 About Me
 
-- 🔭 **Currently Exploring:** Golang, Microservice Architecture.
-- 💡 **Passionate About:** Open-source collaboration, elegant system design, and creating impactful solutions.
+- 🔭 **Currently Exploring:** Golang, DSA.
+- 💡 **Passionate About:** Open-source collaboration.
 - 🤝 **Open to:** Collaborations on exciting projects and exploring new opportunities.
 ---
 
@@ -10,7 +10,7 @@
 ## 🚀 My Tech Stack  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,prisma,docker,bash,go&perline=15" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,bash,go&perline=15" />
   </a>
 </p>
 
