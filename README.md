@@ -20,6 +20,14 @@ A passionate developer focused on strengthening fundamentals while building prac
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+   <img src="https://nirzak-streak-stats.vercel.app/?user=anshvermaaa&theme=merko&hide_border=false" width="400" />
+</p>
+
+---
+
 ## 🧠 DSA & Problem Solving (LeetCode)
 
 <p align="center">
@@ -29,16 +37,7 @@ A passionate developer focused on strengthening fundamentals while building prac
 - 📌 Actively practicing DSA problems  
 - 🔁 Focus on consistency and concept clarity  
 - 🧩 Topics include arrays, strings, recursion, trees, graphs, and DP
-
+ 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshvermaaa&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshvermaaa&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-  <img src="https://git-hub-streak-stats.vercel.app/?user=anshvermaaa&theme=tokyonight&hide_border=true" width="400" />
-</p>
-
----
 > *Learning by doing. Improving every day.* 🚀
