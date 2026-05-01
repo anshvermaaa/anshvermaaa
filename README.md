@@ -31,7 +31,7 @@ A passionate developer focused on strengthening fundamentals while building prac
 ## 🧠 DSA & Problem Solving (LeetCode)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/suryanshverma_1?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/suryanshvermaa?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 - 📌 Actively practicing DSA problems  
