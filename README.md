@@ -20,24 +20,11 @@ A passionate developer focused on strengthening fundamentals while building prac
 
 ---
 
+
 ## 📊 GitHub Stats  
 
 <p align="center">
    <img src="https://streak-stats.demolab.com?user=anshvermaaa&hide_border=true&background=0B0F14&ring=22D3EE&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" width="340" />
 </p>
-
----
-
-## 🧠 DSA & Problem Solving (LeetCode)
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/suryanshvermaa?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
-- 📌 Actively practicing DSA problems  
-- 🔁 Focus on consistency and concept clarity  
-- 🧩 Topics include arrays, strings, recursion, trees, graphs, and DP
- 
----
 
 > *Learning by doing. Improving every day.* 🚀
